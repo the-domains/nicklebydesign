@@ -1,0 +1,28 @@
+name: Nicklebydesign
+favicon: null
+layout_spectrum: 0.42587713757529855
+typography_spectrum: 0.11530669801868498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9117797499056906
+  lightness: 0.8726289707701653
+  saturation: 0.6327010469976813
+  rhythmicContrast: 0.3955378499813378
+purpose: []
